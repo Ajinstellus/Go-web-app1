@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: ajin0809/go-web-app   # Use your DockerHub username & image
   pullPolicy: IfNotPresent
-  tag: "latest"
+  tag: "17771032965"
 
 ingress:
   enabled: true
